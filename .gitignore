@@ -1,0 +1,5 @@
+# WFSL File Guard
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
